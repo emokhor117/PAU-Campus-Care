@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@daily-co/daily-js": "^0.87.0",
+    "@getbrevo/brevo": "^4.0.1",
     "@nestjs/common": "^11.0.1",
     "@nestjs/core": "^11.0.1",
     "@nestjs/jwt": "^11.0.2",
